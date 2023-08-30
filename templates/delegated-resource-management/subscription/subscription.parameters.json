@@ -3,13 +3,13 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "mspOfferName": {
-            "value": "Relecloud Managed Services"
+            "value": "Soaring Towers"
         },
         "mspOfferDescription": {
-            "value": "Relecloud Managed Services"
+            "value": "Soaring Towers provides IT support services and cyber-security solutions for your small and mid-sized business. We use AI and industry-leading tools to prevent issues before they occur."
         },
         "managedByTenantId": {
-            "value": "<insert managing tenant id>"
+            "value": "ddb1b74d-e61b-4896-b230-a110af412a9c"
         },
         "authorizations": {
             "value": [
